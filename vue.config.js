@@ -1,7 +1,7 @@
 module.exports = {
     devServer: {
       outputDir: 'docs',
-  publicPath: './'
+  publicPath: './',
       https: true
     }
   }
