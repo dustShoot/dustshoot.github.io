@@ -17,5 +17,9 @@
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
     "vite": "^5.2.8"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/dustShoot/tameshi.github.io.git",
+  "author": "fwidhion <hkanda1615@gmail.com>",
+  "license": "MIT"
 }
